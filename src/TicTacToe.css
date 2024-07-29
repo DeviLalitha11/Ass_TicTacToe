@@ -1,0 +1,45 @@
+/* src/TicTacToe.css
+.game {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .status {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .board {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 20px;
+    border:cyan;
+  }
+  
+  .square {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 36px;
+    background-color: #f0f0f0;
+    border: 2px solid #ccc;
+    cursor: pointer;
+  }
+  
+  .scoreboard {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+   */
